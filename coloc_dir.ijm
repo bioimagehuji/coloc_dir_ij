@@ -26,5 +26,3 @@ for (i = 0; i < file_list.length; i++) {
 close("*");
 selectWindow("Colocalization Finder Results");
 saveAs("Text", im_dir + "Colocalization Finder Results.csv");
-//print("[Colocalization Finder Results]", "\\Close");
-//updateResults();
