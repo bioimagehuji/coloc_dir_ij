@@ -1,4 +1,5 @@
 // ImageJ macro for colocalization of all images in a directory.
+// Required FIJI plugin: Colocalization_Finder, http://questpharma.u-strasbg.fr/html/colocalization-finder.html
 
 im_dir = getDirectory("Choose folder");
 print(im_dir);
